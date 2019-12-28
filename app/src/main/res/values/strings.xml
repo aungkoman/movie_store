@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Channel Myanmar Movies</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Channel Myanmar Movies</string>
+    <string name="nav_header_subtitle">channelmyanmarmovies@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Channel Myanmar Movies</string>
+    <string name="menu_gallery">Movies</string>
+    <string name="menu_slideshow">Series</string>
+    <string name="menu_tools">About</string>
+    <string name="menu_share">Privacy Policy</string>
+    <string name="menu_send">Send</string>
+
+
+
+    <!-- ads code -->
+    <!-- test ads app id : ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ads_app_id">ca-app-pub-9477251621363762~1947181300</string>
+    <!-- test banner code ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner1">ca-app-pub-9477251621363762/5774745678</string>
+    <!-- test  interstitials ca-app-pub-3940256099942544/1033173712 -->
+    <string name="interstitial1">ca-app-pub-9477251621363762/1125054221</string>
+</resources>
